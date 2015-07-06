@@ -1,0 +1,12 @@
+﻿Name: Lucene.FrenchAnalyser
+AntiForgery: enabled
+Author: Codinlab
+Website: http://orchardproject.net
+Version: 1.0
+OrchardVersion: 1.9
+Description: French analyser for Lucene.
+Features:
+    Lucene.FrenchAnalyser:
+		Name: Lucene French Analyser
+		Category: Search
+        Description: French analyser for Lucene.
