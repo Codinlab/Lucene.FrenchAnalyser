@@ -10,3 +10,4 @@ Features:
 		Name: Lucene French Analyser
 		Category: Search
         Description: French analyser for Lucene.
+		Dependencies: Lucene
